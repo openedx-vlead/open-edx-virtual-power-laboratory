@@ -1,0 +1,103 @@
+<problem display_name="Multiple Choice" markdown="1. Dielectric oil used in transformer is&#10;&#10;( )    Vegetable oil&#10; ( )   Refined Mineral oil&#10;  ( )  Synthetic oil&#10;  ( )  None of the above&#10;&#10;&#10;2. Oil used in transformer for-&#10;&#10; ( )   Cooling&#10;  ( )  Dielectric&#10; ( )   Lubricating&#10;  ( )  Both for cooling and dielectric&#10;&#10;&#10;3. The flash temperature of dielectric oil used in transformer&#10;&#10;( )    1400 C&#10; ( )   2000 C&#10; ( )   3000 C&#10;  ( )  300 C&#10;&#10;&#10;4. The dielectric strength of transformer oil is-&#10;&#10; ( )   25 kV/mm.&#10;  ( )  50 kV/mm.&#10;  ( )  12 kV/mm.&#10;  ( )  10 kV/mm.&#10;&#10;&#10;5. The color of good transformer oil is-&#10;&#10;( )    Dark Black&#10;( )    Transparent Yellow&#10; ( )   Dark Blue&#10;  ( )  None of the above&#10;&#10;&#10;6. When oil decomposed it liberates-&#10;&#10;( )    Carbon&#10; ( )   Hydrogen&#10;  ( )  Carbon and Hydrogen&#10;  ( )  None&#10;&#10;&#10;7. Dielectric strengths of Air at NTP is&#10;&#10; ( )   50 kV/mm&#10; ( )   25 kV/mm&#10;  ( )  12 kV/mm&#10;  ( )  3 kV/mm&#10;&#10;&#10;8. The Break Down Voltage (BDV) of transformer oil is measured when-&#10;&#10;( )    One point flash occurs&#10; ( )   Two point flash occurs&#10;  ( )  Multi point flash occurs&#10;  ( )  None of the above&#10;&#10;&#10;9. The most commonly used unit of dielectric strength is -&#10;&#10;( )    kV/mm.&#10; ( )   V/cm.&#10;  ( )  MV/mm.&#10;  ( )  kV/m.&#10;&#10;&#10;10. The maximum pour point temperature of dielectric oil is-&#10;&#10;( )    -60 C&#10; ( )   100 C&#10;  ( )  10 C&#10;   ( ) 500 C&#10;">
+<p>1. Dielectric oil used in transformer is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Vegetable oil</choice>
+    <choice correct="false">Refined Mineral oil</choice>
+    <choice correct="false">Synthetic oil</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Oil used in transformer for-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Cooling</choice>
+    <choice correct="false">Dielectric</choice>
+    <choice correct="false">Lubricating</choice>
+    <choice correct="false">Both for cooling and dielectric</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. The flash temperature of dielectric oil used in transformer</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">1400 C</choice>
+    <choice correct="false">2000 C</choice>
+    <choice correct="false">3000 C</choice>
+    <choice correct="false">300 C</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. The dielectric strength of transformer oil is-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">25 kV/mm.</choice>
+    <choice correct="false">50 kV/mm.</choice>
+    <choice correct="false">12 kV/mm.</choice>
+    <choice correct="false">10 kV/mm.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. The color of good transformer oil is-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Dark Black</choice>
+    <choice correct="false">Transparent Yellow</choice>
+    <choice correct="false">Dark Blue</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. When oil decomposed it liberates-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Carbon</choice>
+    <choice correct="false">Hydrogen</choice>
+    <choice correct="false">Carbon and Hydrogen</choice>
+    <choice correct="false">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. Dielectric strengths of Air at NTP is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">50 kV/mm</choice>
+    <choice correct="false">25 kV/mm</choice>
+    <choice correct="false">12 kV/mm</choice>
+    <choice correct="false">3 kV/mm</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. The Break Down Voltage (BDV) of transformer oil is measured when-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">One point flash occurs</choice>
+    <choice correct="false">Two point flash occurs</choice>
+    <choice correct="false">Multi point flash occurs</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. The most commonly used unit of dielectric strength is -</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">kV/mm.</choice>
+    <choice correct="false">V/cm.</choice>
+    <choice correct="false">MV/mm.</choice>
+    <choice correct="false">kV/m.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. The maximum pour point temperature of dielectric oil is-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">-60 C</choice>
+    <choice correct="false">100 C</choice>
+    <choice correct="false">10 C</choice>
+    <choice correct="false">500 C</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

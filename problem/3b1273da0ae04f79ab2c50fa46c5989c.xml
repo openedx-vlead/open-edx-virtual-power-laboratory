@@ -1,0 +1,103 @@
+<problem display_name="Multiple Choice" markdown="1. Buchholz relay is used in&#10;&#10;(x)    Oil cooled Transformer&#10; ( )   Air cooled Transformer&#10; ( )   Transmission Line&#10;  ( )  Generator&#10;&#10;&#10;2. Buchholz relay operates on the principle of&#10;&#10;( )    over current&#10; ( )   over voltage&#10;  (x)  Gas&#10;( )    Over power&#10;&#10;&#10;3. Buchholz relay is installed-&#10;&#10;(x)    Between of transformer tank and conservator&#10; ( )   in the Conservator&#10;  ( )  in the Main tank&#10;  ( )  in the Reservoir&#10;&#10;&#10;4. Buchholz relay is used for protection of transformer from&#10;&#10;( )    The flow of excessively high current&#10; ( )   Low level of oil in main tank&#10;  (x)  Both (a) and (b)&#10; ( )   Excessive high voltage&#10;&#10;&#10;5. Buchholz relay is&#10;&#10;(x)    Safety device&#10; ( )   Control device&#10; ( )   Generating device&#10; ( )   Electrical instrument&#10;&#10;&#10;6. How do we test Buchholz relay during maintenance&#10;&#10;( )    Generate air bubbles with pump and force it to Buchholz relay&#10; ( )   Reduce oil level in Buchholz relay&#10;  (x)  Both (a) and (b)&#10;  ( )  None of these&#10;&#10;&#10;7. Buchholz relay is used to protect from&#10;&#10;(x)    All internal faults of transformer&#10; ( )   All external faults of transformer&#10; ( )   Both (a) and (b)&#10; ( )   None of these&#10;&#10;&#10;8. Buchholz relay protects a transformer from&#10;&#10;( )    Winding to ground fault&#10; ( )   Winding to winding fault&#10;  ( )  Turn to turn fault&#10;  (x)  All of these&#10;&#10;&#10;9. Minimum operating time of Buchholz relay is&#10;&#10;(x)    0.1 Second&#10; ( )   1 Second&#10; ( )   2 Second&#10; ( )   0.5 Second&#10;&#10;&#10;10. Average operating time of Buchholz relay is&#10;&#10;( )    1 Second&#10; (x)   0.2 Second&#10;  ( )  0.1 Second&#10;  ( )  5 Second">
+<p>1. Buchholz relay is used in</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Oil cooled Transformer</choice>
+    <choice correct="false">Air cooled Transformer</choice>
+    <choice correct="false">Transmission Line</choice>
+    <choice correct="false">Generator</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Buchholz relay operates on the principle of</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">over current</choice>
+    <choice correct="false">over voltage</choice>
+    <choice correct="true">Gas</choice>
+    <choice correct="false">Over power</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Buchholz relay is installed-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Between of transformer tank and conservator</choice>
+    <choice correct="false">in the Conservator</choice>
+    <choice correct="false">in the Main tank</choice>
+    <choice correct="false">in the Reservoir</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. Buchholz relay is used for protection of transformer from</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">The flow of excessively high current</choice>
+    <choice correct="false">Low level of oil in main tank</choice>
+    <choice correct="true">Both (a) and (b)</choice>
+    <choice correct="false">Excessive high voltage</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. Buchholz relay is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Safety device</choice>
+    <choice correct="false">Control device</choice>
+    <choice correct="false">Generating device</choice>
+    <choice correct="false">Electrical instrument</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. How do we test Buchholz relay during maintenance</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Generate air bubbles with pump and force it to Buchholz relay</choice>
+    <choice correct="false">Reduce oil level in Buchholz relay</choice>
+    <choice correct="true">Both (a) and (b)</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. Buchholz relay is used to protect from</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">All internal faults of transformer</choice>
+    <choice correct="false">All external faults of transformer</choice>
+    <choice correct="false">Both (a) and (b)</choice>
+    <choice correct="false">None of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. Buchholz relay protects a transformer from</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Winding to ground fault</choice>
+    <choice correct="false">Winding to winding fault</choice>
+    <choice correct="false">Turn to turn fault</choice>
+    <choice correct="true">All of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. Minimum operating time of Buchholz relay is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">0.1 Second</choice>
+    <choice correct="false">1 Second</choice>
+    <choice correct="false">2 Second</choice>
+    <choice correct="false">0.5 Second</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. Average operating time of Buchholz relay is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">1 Second</choice>
+    <choice correct="true">0.2 Second</choice>
+    <choice correct="false">0.1 Second</choice>
+    <choice correct="false">5 Second</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

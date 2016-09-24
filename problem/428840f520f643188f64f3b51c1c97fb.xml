@@ -1,0 +1,103 @@
+<problem display_name="Multiple Choice" markdown="1. The standard voltage ratings of an electromagnetic relay are-&#10;&#10;( )    110 V, 63.5 V(L-N)&#10; ( )   220 V, 110 V&#10;  ( )  230 V, 154 V&#10;  (x)  400 V, 231 V&#10;&#10;&#10;2. The main function of relay is-&#10;&#10;   ( ) Fault isolation&#10;   (x) Fault detection&#10;   ( ) Fault protection&#10;   ( ) All of the above&#10;&#10;&#10;3. The relay operating coil is energized by-&#10;&#10;  ( )  Steam engine&#10;  ( )  Power transformer&#10;  (x)  Instrument transformer&#10;   ( ) None of the above&#10;&#10;&#10;4. Which one is correct-&#10;&#10;(x)    1 VA relay is more senstive than 5 VA relay&#10;  ( )  1 VA relay is Less senstive than 5 VA relay&#10;  ( )  1 VA relay is equally senstive than 5 VA relay&#10;  ( )  None of the above&#10;&#10;&#10;5. An over current relay having a current setting of 125% is connected to CT of 400/5. The pick up value is-&#10;&#10;(x)    6.25 A&#10; ( )   10 A&#10;  ( )  12.5 A&#10;  ( )  15 A&#10;&#10;&#10;6. The pick up value of relay is 7.5 A and fault current in relay coil is 30 A. Its plug setting multiplier is-&#10;&#10; ( )   2 A&#10; (x)   4 A&#10;  ( )  6 A&#10;  ( )  8 A&#10;&#10;&#10;7. Induction relays are used with-&#10;&#10;(x)    AC&#10; ( )   DC&#10;  ( )  Both AC and DC&#10;  ( )  None of the above&#10;&#10;&#10;8. In merz-price protection, the CT secondary of delta - star transformer is connected in-&#10;&#10;(x)    Star- delta&#10; ( )   Delta-delta&#10; ( )   Star-star&#10; ( )   Delta- star&#10;&#10;&#10;9. The number of pilot wires required for protecting 3-phaes transmission line using transley system of protection is-&#10;&#10;( )    6&#10; ( )   4&#10; ( )   3&#10;  (x)  2&#10;&#10;10. The least expensive overcurrent protection for LV system is-&#10;&#10; ( )   Isolation&#10;  (x)  Fuse&#10;  ( )  Oil CB&#10;  ( )  Air CB&#10;">
+<p>1. The standard voltage ratings of an electromagnetic relay are-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">110 V, 63.5 V(L-N)</choice>
+    <choice correct="false">220 V, 110 V</choice>
+    <choice correct="false">230 V, 154 V</choice>
+    <choice correct="true">400 V, 231 V</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. The main function of relay is-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Fault isolation</choice>
+    <choice correct="true">Fault detection</choice>
+    <choice correct="false">Fault protection</choice>
+    <choice correct="false">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. The relay operating coil is energized by-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Steam engine</choice>
+    <choice correct="false">Power transformer</choice>
+    <choice correct="true">Instrument transformer</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. Which one is correct-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">1 VA relay is more senstive than 5 VA relay</choice>
+    <choice correct="false">1 VA relay is Less senstive than 5 VA relay</choice>
+    <choice correct="false">1 VA relay is equally senstive than 5 VA relay</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. An over current relay having a current setting of 125% is connected to CT of 400/5. The pick up value is-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">6.25 A</choice>
+    <choice correct="false">10 A</choice>
+    <choice correct="false">12.5 A</choice>
+    <choice correct="false">15 A</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. The pick up value of relay is 7.5 A and fault current in relay coil is 30 A. Its plug setting multiplier is-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">2 A</choice>
+    <choice correct="true">4 A</choice>
+    <choice correct="false">6 A</choice>
+    <choice correct="false">8 A</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. Induction relays are used with-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">AC</choice>
+    <choice correct="false">DC</choice>
+    <choice correct="false">Both AC and DC</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. In merz-price protection, the CT secondary of delta - star transformer is connected in-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Star- delta</choice>
+    <choice correct="false">Delta-delta</choice>
+    <choice correct="false">Star-star</choice>
+    <choice correct="false">Delta- star</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. The number of pilot wires required for protecting 3-phaes transmission line using transley system of protection is-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">6</choice>
+    <choice correct="false">4</choice>
+    <choice correct="false">3</choice>
+    <choice correct="true">2</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. The least expensive overcurrent protection for LV system is-</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Isolation</choice>
+    <choice correct="true">Fuse</choice>
+    <choice correct="false">Oil CB</choice>
+    <choice correct="false">Air CB</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
