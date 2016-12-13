@@ -1,0 +1,92 @@
+<problem display_name="Multiple Choice" markdown="1. A transmission line of length more than 160 Km and line voltage higher 100 kV then it is called:&#10;&#10;( )    Short Transmission line&#10; ( )   Medium Transmission line&#10;  (x)  Long Transmission line&#10;  ( )  None of these&#10;&#10;2. If the overhead transmission line is loaded with the loading equal to the surge impedance, then the voltage at receiving end is:&#10;&#10;( )    Greater than the sending end&#10; ( )   Less than the sending end&#10;  (x)  Equals to the sending end&#10;  ( )  None of these&#10;&#10;3. The paramters of a transmission line for exact solution are:&#10;&#10; (x)   Distributed parameters&#10;  ( )  Lumped parameters&#10;  ( )  mixed parameters&#10;   ( ) None of these&#10;&#10;4. The value of charging current at the receiving end of the transmission line is:&#10;&#10;(x)    Zero&#10; ( )   Modarate&#10; ( )   Equal to load current&#10; ( )   None of these&#10;&#10;5. The square root of the ratio of line impedance to its shunt admittance is called:&#10;&#10;( )    Regulation of the transmission line&#10; (x)   Surge impedance of the transmission line&#10; ( )   Conductance of the transmission line&#10; ( )   Surge admittance of the transmission line&#10;&#10;6. If the receiving end voltage is greater than the sending end voltage, regulation of transmission line is:&#10;&#10;( )    Positive&#10; (x)   Negative&#10;  ( )  Zero&#10;  ( )  None of these&#10;&#10;7. The charging current in the transmission line:&#10;&#10;( )    lags the voltage by 90˚&#10; ( )   leads the voltage by 45˚&#10;  (x)  leads the voltage by 90˚&#10;  ( )  leads the voltage by 180˚&#10;&#10;8. The reflection coefficient of an open-ended transmission line is:&#10;&#10;( )    1.0&#10; ( )   0.5&#10;  (x)  -1.0&#10;   ( ) 2.0&#10;&#10;9. Ferranti effect is experienced on a long overhead transmission lines when it is:&#10;&#10;(x)    Lightly loaded&#10; ( )   fully load at unity pf&#10;  ( )  fully load at 0.8 p.f. lag&#10;  ( )  none of the above&#10;&#10;10. The power loss in a transmission line due to charging current is:&#10;&#10; ( )   Ic2R&#10;  ( )  Ic2R/4&#10;  (x)  Ic2R/2&#10;   ( ) Ic2R/8 ">
+  <p>1. A transmission line of length more than 160 Km and line voltage higher 100 kV then it is called:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Short Transmission line</choice>
+      <choice correct="false">Medium Transmission line</choice>
+      <choice correct="true">Long Transmission line</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. If the overhead transmission line is loaded with the loading equal to the surge impedance, then the voltage at receiving end is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Greater than the sending end</choice>
+      <choice correct="false">Less than the sending end</choice>
+      <choice correct="true">Equals to the sending end</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. The paramters of a transmission line for exact solution are:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Distributed parameters</choice>
+      <choice correct="false">Lumped parameters</choice>
+      <choice correct="false">mixed parameters</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. The value of charging current at the receiving end of the transmission line is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Zero</choice>
+      <choice correct="false">Modarate</choice>
+      <choice correct="false">Equal to load current</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. The square root of the ratio of line impedance to its shunt admittance is called:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Regulation of the transmission line</choice>
+      <choice correct="true">Surge impedance of the transmission line</choice>
+      <choice correct="false">Conductance of the transmission line</choice>
+      <choice correct="false">Surge admittance of the transmission line</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6. If the receiving end voltage is greater than the sending end voltage, regulation of transmission line is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Positive</choice>
+      <choice correct="true">Negative</choice>
+      <choice correct="false">Zero</choice>
+      <choice correct="false">None of these</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>7. The charging current in the transmission line:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">lags the voltage by 90˚</choice>
+      <choice correct="false">leads the voltage by 45˚</choice>
+      <choice correct="true">leads the voltage by 90˚</choice>
+      <choice correct="false">leads the voltage by 180˚</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>8. The reflection coefficient of an open-ended transmission line is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1.0</choice>
+      <choice correct="false">0.5</choice>
+      <choice correct="true">-1.0</choice>
+      <choice correct="false">2.0</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>9. Ferranti effect is experienced on a long overhead transmission lines when it is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Lightly loaded</choice>
+      <choice correct="false">fully load at unity pf</choice>
+      <choice correct="false">fully load at 0.8 p.f. lag</choice>
+      <choice correct="false">none of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>10. The power loss in a transmission line due to charging current is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Ic2R</choice>
+      <choice correct="false">Ic2R/4</choice>
+      <choice correct="true">Ic2R/2</choice>
+      <choice correct="false">Ic2R/8</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

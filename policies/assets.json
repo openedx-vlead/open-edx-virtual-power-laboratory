@@ -1,0 +1,26 @@
+{
+    "Dayalbagh-Virtual_Power_Lab.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "EEE06", 
+            "name": "Dayalbagh-Virtual_Power_Lab.jpg", 
+            "org": "DEI", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Dayalbagh-Virtual Power Lab.jpg", 
+        "filename": "asset-v1:DEI+EEE06+Anytime+type@asset+block@Dayalbagh-Virtual_Power_Lab.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DEI", 
+            "EEE06", 
+            "thumbnail", 
+            "Dayalbagh-Virtual_Power_Lab.jpg", 
+            null
+        ]
+    }
+}
